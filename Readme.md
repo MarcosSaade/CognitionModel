@@ -1,4 +1,4 @@
-# Gognition model
+# Cognition model
 <hr>
 ### This work is a project for my High School IB Mathematics course.
 
