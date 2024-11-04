@@ -8,7 +8,7 @@ This project explores cognitive abilities within an AI model, specifically an Ar
 - **Artificial Neural Network (ANN) Architecture**: Built and trained using PyTorch to simulate cognitive tasks, evaluating problem-solving and learning capabilities.
 - **Cognitive Test**: Inspired by Siegler’s study on cognitive development (Siegler, R. S., 1976). The test assesses decision-making abilities in balance scale tasks, where weight and distance are factored in to predict outcomes.
 - **Training Dataset**: Drawn from the [UCI Machine Learning Repository’s Balance Scale dataset](https://archive.ics.uci.edu/ml/datasets/Balance+Scale).
-- **Model Performance**: Achieved prediction accuracy ranging from 93% to 99%, demonstrating competitive performance compared to human participants aged 6-18.
+- **Model Performance**: Achieved prediction accuracy of more than 98%, demonstrating competitive performance compared to human participants aged 7-18.
 
 ### About the Cognitive Task
 The cognitive task is a balance scale problem where the model predicts which side of the scale will tilt, based on weight and distance inputs. This approach mirrors cognitive challenge levels presented to human participants.
